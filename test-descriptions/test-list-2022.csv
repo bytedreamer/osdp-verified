@@ -3,6 +3,7 @@
 "050-91-15","CRC","Frame check method","Optional","Required"
 "060-15-01","osdp_BIOMATCH","Read biometric template","Optional","Optional","Optional","Optional","Optional","Optional","Optional","Optional","Optional","Optional","Optional","Required"
 "060-25-01","osdp_CRAUTH","reader-based challenge","Optional","Optional","Required","Optional","Optional","Optional","Optional","Optional","Required","Optional","Optional","Optional"
+"070-05-09","Cap 8 Chk char","Supports CRC?","Optional","Optional","Optional","Optional","Optional","Optional","Optional","Optional","Optional","Optional","Optional","Optional"
 "999-99-99","template","filler for example","Required"
 "-----END TEST LIST-----"
 "osdp verified test list","version","2.1.0-1"
